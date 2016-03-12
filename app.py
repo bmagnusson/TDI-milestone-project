@@ -3,6 +3,7 @@ import pandas as pd
 from bokeh.plotting import figure
 from bokeh.embed import components
 import Quandl
+import os
 
 app = Flask(__name__)
 
