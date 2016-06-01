@@ -1,1 +1,1 @@
-web: jupyter notebook
+web: gunicorn app:app
