@@ -10,3 +10,12 @@ pandas==0.18.1
 bokeh==0.11.0
 Quandl>=2.8.9
 jupyter==1.0.0
+nbformat==4.0.1
+ipykernel==4.3.1
+ipython==4.2.0
+ipython_genutils==0.1.0
+ipywidgets==4.1.1
+notebook==4.2.0
+jupyter-client==4.2.2
+jupyter-console==4.1.1
+jupyter-core==4.1.0
